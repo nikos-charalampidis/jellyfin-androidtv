@@ -8,6 +8,7 @@ plugins {
 
 // comment
 // 2nd comment
+// 3rd comment
 
 android {
 	namespace = "org.jellyfin.androidtv"
