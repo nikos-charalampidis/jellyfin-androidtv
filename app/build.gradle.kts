@@ -6,6 +6,8 @@ plugins {
 	alias(libs.plugins.aboutlibraries)
 }
 
+// comment
+
 android {
 	namespace = "org.jellyfin.androidtv"
 	compileSdk = 34
